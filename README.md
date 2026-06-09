@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi there, I'm Jamal Taha! 👋
 
-<!--
-**jamal197-com/jamal197-com** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An aspiring **Fachinformatiker für Anwendungsentwicklung** with a passion for building software and learning modern technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 About Me
+- 🚀 **Self-Taught Programmer:** Actively learning and building projects since 2025.
+- 🎓 **Current Focus:** Improving my German language skills (currently B2 level at VHS Trier) to integrate into the professional IT market.
+- ⚽ **Interests:** Coding, Reading, and playing Football.
+
+### 🛠️ Tech Stack & Skills
+- **Languages:** Python (Advanced Logic & Scripting), JavaScript (Basic / Learning)
+- **Web Development:** HTML5, CSS3
+- **Tools:** GitHub, Visual Studio Code
+
+---
+
+*“The best way to predict the future is to invent it.”*
