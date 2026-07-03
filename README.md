@@ -12,7 +12,7 @@ An aspiring **Fachinformatiker für Anwendungsentwicklung** with a passion for b
 ### 🛠️ Tech Stack & Skills
 - **Languages:** Python (Advanced Logic & Scripting), JavaScript (Basic / Learning)
 - **Web Development:** HTML5, CSS3
-- **Tools:** GitHub, Visual Studio Code
+- **Tools:** Git, GitHub, Visual Studio Code
 
 ---
 
